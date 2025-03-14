@@ -1,0 +1,4 @@
+runtime: php81  # PHP runtime version (use php74, php80, or php81)
+handlers:
+- url: /.*
+  script: auto
