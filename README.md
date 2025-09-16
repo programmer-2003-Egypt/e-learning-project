@@ -30,22 +30,13 @@
 | 🚄 **Optimized Performance**   | Async + Animations       | ⚡ |
 
 ---
+## 🛠️ Tech Stack  
 
-## 🛠️ Tech Stack
-
-**Frontend**  
-- ⚡ HTML5, CSS3, JavaScript (ES6+)  
-- 🎨 GSAP (animations)  
-- 📝 TinyMCE, 📑 PDF.js, 🎥 YouTube Iframe API, 🎙️ MediaDevices API  
-
-**Backend**  
-- 🐘 PHP (XAMPP stack)  
-- 🗄️ MySQL (Relational DB)  
-
-**Communication Layer**  
-- 🔄 AJAX & Axios  
-
-
+| Layer                | Technologies                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| **Frontend**          | ⚡ HTML5, CSS3, JavaScript (ES6+) <br> 🎨 GSAP (animations) <br> 📝 TinyMCE <br> 📑 PDF.js <br> 🎥 YouTube Iframe API <br> 🎙️ MediaDevices API |
+| **Backend**           | 🐘 PHP (XAMPP stack) <br> 🗄️ MySQL (Relational DB)                          |
+| **Communication**     | 🔄 AJAX & Axios                                                              |
 
 ## ⚙️ Installation & Setup
 
